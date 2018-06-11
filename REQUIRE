@@ -1,8 +1,8 @@
 julia 0.6
-DataStreams 0.3.0
-DataFrames
-CategoricalArrays 0.2
-WeakRefStrings 0.4.1
-DecFP 0.3.0
-Missings
-Compat 0.27
+DataStreams 0.3.6
+DataFrames 0.11.6
+CategoricalArrays 0.3.9
+WeakRefStrings 0.4.7
+DecFP 0.4.3
+Missings 0.2.9
+Compat 0.6.8
